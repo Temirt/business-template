@@ -2,6 +2,11 @@
     "$schema": "https://www.schemastore.org/package.json",
     "private": true,
     "type": "module",
+    "description": "A minimal Laravel business website template driven from config/site.php",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Temirt/business-template.git"
+    },
     "scripts": {
         "build": "vite build",
         "dev": "vite",

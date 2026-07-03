@@ -1,8 +1,10 @@
 # Business Website Template (Laravel)
 
-A clean, editorial, mobile-first Laravel template you can re-skin for **any
-business** — consultancy, agency, café, salon, gym, photography studio, law
-firm, clinic, boutique, trades, etc.
+A clean, editorial, mobile-first Laravel template you can re-skin for any business.
+
+Repository: https://github.com/Temirt/business-template
+
+Description: A minimal, configurable Laravel business website template driven by a single `config/site.php` file. Ideal for quickly launching brochure sites for agencies, cafés, consultants and other small businesses.
 
 The whole site is driven by **one config file**: `config/site.php`.
 Edit the brand, colour, copy, services, portfolio, pricing tiers and FAQ
